@@ -1,0 +1,19 @@
+nav{
+  background: indigo;
+}
+
+header .container {
+  margin-top: 0px;
+}
+
+.container {
+  margin-top: 80px;
+  width: 60%;
+}
+.content-section{
+  background-color: white;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  padding: 12px;
+  margin  : 12px 0px;
+}
